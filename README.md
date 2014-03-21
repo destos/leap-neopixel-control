@@ -3,6 +3,8 @@ leap-neopixel-control
 
 Control a neopixel ring with your leap motion controller
 
+http://www.youtube.com/watch?v=SJzm80x8gXY
+
 Hardware used
 -------------
 
