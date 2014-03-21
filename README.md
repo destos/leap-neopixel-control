@@ -7,7 +7,7 @@ Hardware used
 -------------
 
 * Arduino yun ( you can probably use any arduino )
-* (Adafruit 16 neopixel ring)[http://www.adafruit.com/products/1463]
+* [Adafruit 16 neopixel ring](http://www.adafruit.com/products/1463)
 
 Prerequisites
 -------------

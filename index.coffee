@@ -7,9 +7,10 @@ mode = 'serial'
 debug = false
 switch mode
     when 'serial'
+        dev = "/dev/tty.usbmodem1421"
         open = false
         SerialPort = require("serialport").SerialPort
-        serialPort = new SerialPort "/dev/tty.usbmodem1421",
+        serialPort = new SerialPort dev,
             baudrate: 9600
         serialPort.on 'open', (e) ->
             open = true
